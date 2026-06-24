@@ -52,9 +52,13 @@ Tech Used: HTML • CSS • JavaScript • Node.js • Express.js • PostgreSQL
 ---
 
 ### 🌦️ Weather Application
-Real-time weather application using OpenWeather API.
 
-**Tech Used:** HTML • CSS • JavaScript • API Integration
+A responsive weather application that provides real-time weather information using the OpenWeather API. Users can search for any city and view current weather conditions instantly.
+
+🔗 Live Demo: https://sharam96.github.io/Live-Weather/
+
+Tech Used: HTML • CSS • JavaScript • OpenWeather API • GitHub Pages
+
 
 ---
 
