@@ -41,10 +41,13 @@ A full-stack application that allows users to manage books, ratings, and reviews
 
 ---
 
-### 📝 Blog Web Application
-A CRUD-based blogging platform where users can create, edit, update, and delete blog posts.
+📝 Blog Web Application
 
-**Tech Used:** Node.js • Express.js • PostgreSQL
+A full-stack blogging platform where users can create, view, update, and manage blog posts. The application uses a cloud-hosted PostgreSQL database and is fully deployed online.
+
+🔗 Live Demo: https://blog-website-it47.onrender.com
+
+Tech Used: HTML • CSS • JavaScript • Node.js • Express.js • PostgreSQL • Supabase • Render
 
 ---
 
@@ -85,6 +88,7 @@ Real-time weather application using OpenWeather API.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Integration-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ### Database
@@ -92,6 +96,7 @@ Real-time weather application using OpenWeather API.
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -100,6 +105,8 @@ Real-time weather application using OpenWeather API.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -120,6 +127,8 @@ Real-time weather application using OpenWeather API.
 - 🌐 REST APIs
 - 🗄️ PostgreSQL Optimization
 - 🏗️ Backend Architecture
+- ☁️ Cloud Deployment (Render)
+- 🗄️ Supabase & PostgreSQL
 
 ---
 
