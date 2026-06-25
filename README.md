@@ -37,7 +37,10 @@ Passionate about building modern web applications, solving real-world problems, 
 ### 📚 Book Library Management System
 A full-stack application that allows users to manage books, ratings, and reviews while integrating data from the Open Library API.
 
-**Tech Used:** Node.js • Express.js • PostgreSQL • Open Library API
+🔗 Live Demo: https://book-library-management-1-lfhp.onrender.com/
+
+
+Tech Used: HTML • CSS • JavaScript • Node.js • Express.js • PostgreSQL • Supabase • Render
 
 ---
 
